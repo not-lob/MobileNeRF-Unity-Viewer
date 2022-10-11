@@ -1,4 +1,5 @@
-public static class ViewDependenceNetworkShader {
+public static class ViewDependenceNetworkShader
+{
     public const string Template = @"Shader ""MobileNeRF/ViewDependenceNetworkShader/OBJECT_NAME"" {
     Properties {
         tDiffuse0x (""Diffuse Texture 0"", 2D) = ""white"" {}
